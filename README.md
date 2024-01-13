@@ -1,3 +1,5 @@
+<!-- export NODE_OPTIONS=--openssl-legacy-provider -->
+
 # Auto-rebase
 
 A GitHub Action that automatically rebases pull requests.
